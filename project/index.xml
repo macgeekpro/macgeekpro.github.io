@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Yohannes Wijaya</title>
+    <link>https://macgeekpro.github.io/project/</link>
+    <description>Recent content in Projects on Yohannes Wijaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 19 Oct 2018 15:19:37 +0700</lastBuildDate>
+    
+	<atom:link href="https://macgeekpro.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Counter</title>
+      <link>https://macgeekpro.github.io/project/counter/</link>
+      <pubDate>Fri, 19 Oct 2018 15:19:37 +0700</pubDate>
+      
+      <guid>https://macgeekpro.github.io/project/counter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughtless</title>
+      <link>https://macgeekpro.github.io/project/thoughtless/</link>
+      <pubDate>Fri, 19 Oct 2018 15:11:35 +0700</pubDate>
+      
+      <guid>https://macgeekpro.github.io/project/thoughtless/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

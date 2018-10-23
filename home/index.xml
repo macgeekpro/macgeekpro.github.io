@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Yohannes Wijaya</title>
+    <link>https://macgeekpro.github.io/home/</link>
+    <description>Recent content in Homes on Yohannes Wijaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0700</lastBuildDate>
+    
+	<atom:link href="https://macgeekpro.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://macgeekpro.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0700</pubDate>
+      
+      <guid>https://macgeekpro.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://macgeekpro.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>https://macgeekpro.github.io/home/about/</guid>
+      <description>Biography I am currently a project coordinator at Mirai Technologies. We are essentially a software house that focuses on mobile applications catered towards startups. I manage 4 teams; iOS, Android, Hybrid, and Backend (plus a UI/UX designer). In this capacity,
+ I serve as a communication bridge between clients and my teams. I plan, prioritize, delegate projects’ features and tasks through an established and agreed timeline. I coach and empower my teams so that they consistently are on top of their games.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://macgeekpro.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0700</pubDate>
+      
+      <guid>https://macgeekpro.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://macgeekpro.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://macgeekpro.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://macgeekpro.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>https://macgeekpro.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://macgeekpro.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>https://macgeekpro.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
